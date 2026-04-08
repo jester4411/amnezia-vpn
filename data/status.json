@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-08T09:10:02.701445+00:00",
+  "updated_at": "2026-04-08T09:15:02.512121+00:00",
   "server": {
     "status": "online",
     "total_peers": 0,
     "active_peers": 0,
-    "uptime": "4m",
-    "load": "0.02",
-    "ram_used_mb": 139,
+    "uptime": "9m",
+    "load": "0.00",
+    "ram_used_mb": 131,
     "ram_total_mb": 964,
     "disk_used_gb": 5,
     "disk_total_gb": 11
