@@ -1,33 +1,73 @@
 {
-  "updated_at": "2026-04-14T22:15:03.123253+00:00",
+  "updated_at": "2026-04-14T22:20:03.013047+00:00",
   "server": {
     "status": "online",
     "total_peers": 48,
-    "active_peers": 8,
-    "uptime": "6d 13h 9m",
-    "load": "0.02",
-    "ram_used_mb": 151,
+    "active_peers": 12,
+    "uptime": "6d 13h 14m",
+    "load": "0.05",
+    "ram_used_mb": 152,
     "ram_total_mb": 964,
     "disk_used_gb": 5,
     "disk_total_gb": 11
   },
   "peers": [
     {
+      "name": "angelika_phone",
+      "ip": "10.66.66.18",
+      "status": "online",
+      "latest_handshake": "2 minutes, 21 seconds ago",
+      "handshake_seconds": 141,
+      "transfer_rx": "3.02 GiB",
+      "transfer_tx": "20.04 GiB",
+      "endpoint": "176.52.*.*:57378"
+    },
+    {
+      "name": "gulnara_phone",
+      "ip": "10.66.66.23",
+      "status": "online",
+      "latest_handshake": "2 minutes, 12 seconds ago",
+      "handshake_seconds": 132,
+      "transfer_rx": "1.49 GiB",
+      "transfer_tx": "17.44 GiB",
+      "endpoint": "5.35.*.*:18436"
+    },
+    {
+      "name": "gulnara_tablet",
+      "ip": "10.66.66.24",
+      "status": "online",
+      "latest_handshake": "1 minute, 23 seconds ago",
+      "handshake_seconds": 83,
+      "transfer_rx": "902.19 MiB",
+      "transfer_tx": "19.35 GiB",
+      "endpoint": "5.35.*.*:18434"
+    },
+    {
       "name": "hayerbek_rashidovich_phone",
       "ip": "10.66.66.2",
       "status": "online",
-      "latest_handshake": "2 minutes, 50 seconds ago",
-      "handshake_seconds": 170,
+      "latest_handshake": "2 minutes ago",
+      "handshake_seconds": 120,
       "transfer_rx": "1.60 GiB",
       "transfer_tx": "9.67 GiB",
       "endpoint": "128.71.*.*:12662"
     },
     {
+      "name": "lena_phone",
+      "ip": "10.66.66.16",
+      "status": "online",
+      "latest_handshake": "1 minute, 27 seconds ago",
+      "handshake_seconds": 87,
+      "transfer_rx": "846.51 MiB",
+      "transfer_tx": "9.28 GiB",
+      "endpoint": "79.139.*.*:2350"
+    },
+    {
       "name": "orkhan_phone",
       "ip": "10.66.66.38",
       "status": "online",
-      "latest_handshake": "1 minute, 8 seconds ago",
-      "handshake_seconds": 68,
+      "latest_handshake": "1 minute, 32 seconds ago",
+      "handshake_seconds": 92,
       "transfer_rx": "1.66 GiB",
       "transfer_tx": "12.46 GiB",
       "endpoint": "89.169.*.*:24832"
@@ -36,18 +76,78 @@
       "name": "spare6",
       "ip": "10.66.66.32",
       "status": "online",
-      "latest_handshake": "36 seconds ago",
-      "handshake_seconds": 36,
+      "latest_handshake": "1 minute, 31 seconds ago",
+      "handshake_seconds": 91,
       "transfer_rx": "1.70 GiB",
       "transfer_tx": "9.49 GiB",
       "endpoint": "176.14.*.*:16613"
     },
     {
+      "name": "spare8",
+      "ip": "10.66.66.34",
+      "status": "online",
+      "latest_handshake": "22 seconds ago",
+      "handshake_seconds": 22,
+      "transfer_rx": "1.05 GiB",
+      "transfer_tx": "14.37 GiB",
+      "endpoint": "95.24.*.*:36631"
+    },
+    {
+      "name": "spare_9",
+      "ip": "10.66.66.48",
+      "status": "online",
+      "latest_handshake": "2 seconds ago",
+      "handshake_seconds": 2,
+      "transfer_rx": "3.26 GiB",
+      "transfer_tx": "13.45 GiB",
+      "endpoint": "92.36.*.*:3895"
+    },
+    {
+      "name": "support3_phone",
+      "ip": "10.66.66.8",
+      "status": "online",
+      "latest_handshake": "11 seconds ago",
+      "handshake_seconds": 11,
+      "transfer_rx": "1.06 GiB",
+      "transfer_tx": "14.84 GiB",
+      "endpoint": "188.170.*.*:26501"
+    },
+    {
+      "name": "tukaz_phone",
+      "ip": "10.66.66.37",
+      "status": "online",
+      "latest_handshake": "51 seconds ago",
+      "handshake_seconds": 51,
+      "transfer_rx": "2.61 GiB",
+      "transfer_tx": "20.23 GiB",
+      "endpoint": "176.96.*.*:65153"
+    },
+    {
+      "name": "vova_phone",
+      "ip": "10.66.66.14",
+      "status": "online",
+      "latest_handshake": "49 seconds ago",
+      "handshake_seconds": 49,
+      "transfer_rx": "3.35 GiB",
+      "transfer_tx": "36.26 GiB",
+      "endpoint": "213.87.*.*:12332"
+    },
+    {
+      "name": "angelika_pc",
+      "ip": "10.66.66.19",
+      "status": "recent",
+      "latest_handshake": "13 minutes, 52 seconds ago",
+      "handshake_seconds": 832,
+      "transfer_rx": "563.07 MiB",
+      "transfer_tx": "3.75 GiB",
+      "endpoint": "176.52.*.*:56913"
+    },
+    {
       "name": "spare7",
       "ip": "10.66.66.33",
-      "status": "online",
-      "latest_handshake": "1 minute, 12 seconds ago",
-      "handshake_seconds": 72,
+      "status": "recent",
+      "latest_handshake": "6 minutes, 11 seconds ago",
+      "handshake_seconds": 371,
       "transfer_rx": "1.81 GiB",
       "transfer_tx": "7.39 GiB",
       "endpoint": "185.35.*.*:3856"
@@ -55,92 +155,12 @@
     {
       "name": "spare9",
       "ip": "10.66.66.35",
-      "status": "online",
-      "latest_handshake": "2 minutes, 15 seconds ago",
-      "handshake_seconds": 135,
+      "status": "recent",
+      "latest_handshake": "3 minutes, 2 seconds ago",
+      "handshake_seconds": 182,
       "transfer_rx": "1.49 GiB",
       "transfer_tx": "12.49 GiB",
       "endpoint": "188.32.*.*:61702"
-    },
-    {
-      "name": "support3_phone",
-      "ip": "10.66.66.8",
-      "status": "online",
-      "latest_handshake": "1 minute, 15 seconds ago",
-      "handshake_seconds": 75,
-      "transfer_rx": "1.06 GiB",
-      "transfer_tx": "14.82 GiB",
-      "endpoint": "188.170.*.*:26501"
-    },
-    {
-      "name": "tukaz_phone",
-      "ip": "10.66.66.37",
-      "status": "online",
-      "latest_handshake": "1 minute, 58 seconds ago",
-      "handshake_seconds": 118,
-      "transfer_rx": "2.61 GiB",
-      "transfer_tx": "20.22 GiB",
-      "endpoint": "176.96.*.*:65153"
-    },
-    {
-      "name": "vova_phone",
-      "ip": "10.66.66.14",
-      "status": "online",
-      "latest_handshake": "1 minute, 29 seconds ago",
-      "handshake_seconds": 89,
-      "transfer_rx": "3.35 GiB",
-      "transfer_tx": "36.24 GiB",
-      "endpoint": "94.29.*.*:1380"
-    },
-    {
-      "name": "angelika_pc",
-      "ip": "10.66.66.19",
-      "status": "recent",
-      "latest_handshake": "8 minutes, 53 seconds ago",
-      "handshake_seconds": 533,
-      "transfer_rx": "563.07 MiB",
-      "transfer_tx": "3.75 GiB",
-      "endpoint": "176.52.*.*:56913"
-    },
-    {
-      "name": "angelika_phone",
-      "ip": "10.66.66.18",
-      "status": "recent",
-      "latest_handshake": "5 minutes, 47 seconds ago",
-      "handshake_seconds": 347,
-      "transfer_rx": "3.02 GiB",
-      "transfer_tx": "20.04 GiB",
-      "endpoint": "176.52.*.*:57378"
-    },
-    {
-      "name": "gulnara_phone",
-      "ip": "10.66.66.23",
-      "status": "recent",
-      "latest_handshake": "7 minutes, 1 second ago",
-      "handshake_seconds": 421,
-      "transfer_rx": "1.49 GiB",
-      "transfer_tx": "17.44 GiB",
-      "endpoint": "5.35.*.*:18436"
-    },
-    {
-      "name": "gulnara_tablet",
-      "ip": "10.66.66.24",
-      "status": "recent",
-      "latest_handshake": "7 minutes, 25 seconds ago",
-      "handshake_seconds": 445,
-      "transfer_rx": "901.98 MiB",
-      "transfer_tx": "19.35 GiB",
-      "endpoint": "5.35.*.*:18434"
-    },
-    {
-      "name": "spare8",
-      "ip": "10.66.66.34",
-      "status": "recent",
-      "latest_handshake": "7 minutes, 12 seconds ago",
-      "handshake_seconds": 432,
-      "transfer_rx": "1.05 GiB",
-      "transfer_tx": "14.29 GiB",
-      "endpoint": "95.24.*.*:37151"
     },
     {
       "name": "alena_phone",
@@ -166,8 +186,8 @@
       "name": "angelika_phone2",
       "ip": "10.66.66.20",
       "status": "offline",
-      "latest_handshake": "3 hours, 48 minutes, 10 seconds ago",
-      "handshake_seconds": 13690,
+      "latest_handshake": "3 hours, 53 minutes, 9 seconds ago",
+      "handshake_seconds": 13989,
       "transfer_rx": "1.21 GiB",
       "transfer_tx": "23.11 GiB",
       "endpoint": "176.52.*.*:61018"
@@ -176,21 +196,11 @@
       "name": "lena_pc",
       "ip": "10.66.66.17",
       "status": "offline",
-      "latest_handshake": "37 minutes, 35 seconds ago",
-      "handshake_seconds": 2255,
+      "latest_handshake": "42 minutes, 34 seconds ago",
+      "handshake_seconds": 2554,
       "transfer_rx": "792.22 MiB",
       "transfer_tx": "3.13 GiB",
       "endpoint": "79.139.*.*:2225"
-    },
-    {
-      "name": "lena_phone",
-      "ip": "10.66.66.16",
-      "status": "offline",
-      "latest_handshake": "1 hour, 36 minutes, 4 seconds ago",
-      "handshake_seconds": 5764,
-      "transfer_rx": "843.30 MiB",
-      "transfer_tx": "9.24 GiB",
-      "endpoint": "79.139.*.*:2465"
     },
     {
       "name": "my_pc_vpn",
@@ -206,8 +216,8 @@
       "name": "orkhan_macbook",
       "ip": "10.66.66.39",
       "status": "offline",
-      "latest_handshake": "7 hours, 33 minutes, 43 seconds ago",
-      "handshake_seconds": 27223,
+      "latest_handshake": "7 hours, 38 minutes, 42 seconds ago",
+      "handshake_seconds": 27522,
       "transfer_rx": "43.29 MiB",
       "transfer_tx": "750.72 MiB",
       "endpoint": "95.161.*.*:54155"
@@ -226,8 +236,8 @@
       "name": "spare1",
       "ip": "10.66.66.26",
       "status": "offline",
-      "latest_handshake": "1 hour, 35 minutes, 8 seconds ago",
-      "handshake_seconds": 5708,
+      "latest_handshake": "1 hour, 40 minutes, 7 seconds ago",
+      "handshake_seconds": 6007,
       "transfer_rx": "969.07 MiB",
       "transfer_tx": "4.82 GiB",
       "endpoint": "188.32.*.*:62854"
@@ -256,8 +266,8 @@
       "name": "spare3",
       "ip": "10.66.66.28",
       "status": "offline",
-      "latest_handshake": "1 hour, 31 minutes, 54 seconds ago",
-      "handshake_seconds": 5514,
+      "latest_handshake": "1 hour, 36 minutes, 53 seconds ago",
+      "handshake_seconds": 5813,
       "transfer_rx": "1.98 GiB",
       "transfer_tx": "19.66 GiB",
       "endpoint": "185.35.*.*:5129"
@@ -266,8 +276,8 @@
       "name": "spare4",
       "ip": "10.66.66.29",
       "status": "offline",
-      "latest_handshake": "4 hours, 1 minute, 8 seconds ago",
-      "handshake_seconds": 14468,
+      "latest_handshake": "4 hours, 6 minutes, 7 seconds ago",
+      "handshake_seconds": 14767,
       "transfer_rx": "3.56 GiB",
       "transfer_tx": "10.92 GiB",
       "endpoint": "31.185.*.*:1105"
@@ -276,8 +286,8 @@
       "name": "spare5",
       "ip": "10.66.66.30",
       "status": "offline",
-      "latest_handshake": "16 hours, 27 minutes, 28 seconds ago",
-      "handshake_seconds": 59248,
+      "latest_handshake": "16 hours, 32 minutes, 27 seconds ago",
+      "handshake_seconds": 59547,
       "transfer_rx": "211.53 MiB",
       "transfer_tx": "3.22 GiB",
       "endpoint": "81.24.*.*:3332"
@@ -286,8 +296,8 @@
       "name": "spare_1",
       "ip": "10.66.66.40",
       "status": "offline",
-      "latest_handshake": "37 minutes, 55 seconds ago",
-      "handshake_seconds": 2275,
+      "latest_handshake": "42 minutes, 54 seconds ago",
+      "handshake_seconds": 2574,
       "transfer_rx": "918.15 MiB",
       "transfer_tx": "12.08 GiB",
       "endpoint": "188.162.*.*:15018"
@@ -306,8 +316,8 @@
       "name": "spare_2",
       "ip": "10.66.66.41",
       "status": "offline",
-      "latest_handshake": "5 hours, 21 minutes, 38 seconds ago",
-      "handshake_seconds": 19298,
+      "latest_handshake": "5 hours, 26 minutes, 37 seconds ago",
+      "handshake_seconds": 19597,
       "transfer_rx": "151.07 MiB",
       "transfer_tx": "1.10 GiB",
       "endpoint": "84.52.*.*:52017"
@@ -316,8 +326,8 @@
       "name": "spare_3",
       "ip": "10.66.66.42",
       "status": "offline",
-      "latest_handshake": "36 minutes, 44 seconds ago",
-      "handshake_seconds": 2204,
+      "latest_handshake": "41 minutes, 43 seconds ago",
+      "handshake_seconds": 2503,
       "transfer_rx": "674.57 MiB",
       "transfer_tx": "6.98 GiB",
       "endpoint": "79.139.*.*:2193"
@@ -326,8 +336,8 @@
       "name": "spare_4",
       "ip": "10.66.66.43",
       "status": "offline",
-      "latest_handshake": "1 hour, 11 minutes, 9 seconds ago",
-      "handshake_seconds": 4269,
+      "latest_handshake": "1 hour, 16 minutes, 8 seconds ago",
+      "handshake_seconds": 4568,
       "transfer_rx": "2.61 GiB",
       "transfer_tx": "6.83 GiB",
       "endpoint": "79.139.*.*:1735"
@@ -373,16 +383,6 @@
       "endpoint": ""
     },
     {
-      "name": "spare_9",
-      "ip": "10.66.66.48",
-      "status": "offline",
-      "latest_handshake": "2 hours, 17 minutes, 28 seconds ago",
-      "handshake_seconds": 8248,
-      "transfer_rx": "3.26 GiB",
-      "transfer_tx": "13.45 GiB",
-      "endpoint": "92.36.*.*:1088"
-    },
-    {
       "name": "support1_pc",
       "ip": "10.66.66.5",
       "status": "offline",
@@ -406,8 +406,8 @@
       "name": "support2_pc",
       "ip": "10.66.66.7",
       "status": "offline",
-      "latest_handshake": "8 hours, 3 minutes, 7 seconds ago",
-      "handshake_seconds": 28987,
+      "latest_handshake": "8 hours, 8 minutes, 6 seconds ago",
+      "handshake_seconds": 29286,
       "transfer_rx": "371.62 MiB",
       "transfer_tx": "1.77 GiB",
       "endpoint": "95.32.*.*:2295"
@@ -436,8 +436,8 @@
       "name": "support3_pc",
       "ip": "10.66.66.9",
       "status": "offline",
-      "latest_handshake": "3 hours, 27 minutes, 10 seconds ago",
-      "handshake_seconds": 12430,
+      "latest_handshake": "3 hours, 32 minutes, 9 seconds ago",
+      "handshake_seconds": 12729,
       "transfer_rx": "999.62 MiB",
       "transfer_tx": "2.83 GiB",
       "endpoint": "5.188.*.*:51368"
@@ -486,8 +486,8 @@
       "name": "vova_pc",
       "ip": "10.66.66.15",
       "status": "offline",
-      "latest_handshake": "6 hours, 18 minutes, 37 seconds ago",
-      "handshake_seconds": 22717,
+      "latest_handshake": "6 hours, 23 minutes, 36 seconds ago",
+      "handshake_seconds": 23016,
       "transfer_rx": "748.14 MiB",
       "transfer_tx": "3.28 GiB",
       "endpoint": "95.64.*.*:57441"
